@@ -43,11 +43,9 @@ It also borrows a trick from **[TinyPNG](https://tinypng.com/)**: after bleeding
 
 ## 🚀 Get Started
 
-```
-1.  Download  pixelbleed.html or visit https://legendoj1.github.io/pixelbleed
+1.  Download pixelbleed.html or visit https://legendoj1.github.io/pixelbleed
 2.  Drop in your PNGs
 3.  Download the results
-```
 
 That's it. Everything runs client-side in your browser. No files are uploaded anywhere. As easy as 1-2-3.
 
@@ -102,13 +100,3 @@ This project stands on the shoulders of tools that came before it:
 ## ✨ Proudly Vibecoded
 
 This project was vibecoded with [Claude](https://claude.ai). The entire app — algorithm port, UI, PNG compression pipeline — was built through conversation, not a traditional dev workflow. If it works well, that's the vibe. If something's off, PRs are welcome.
-
-<br>
-
----
-
-<div align="center">
-<br>
-<sub>Made for the Roblox dev community.</sub>
-<br><br>
-</div>
